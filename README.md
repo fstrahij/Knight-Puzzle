@@ -1,5 +1,5 @@
 # Knight-Puzzle
-Goal of the puzzle is to collect all coins with knight figure. Knight can only move in "L" shape (like knight piece in chess). Knight can not move on the wall but can jump over them. The board on which the game is played is a rectangle. The layout of the level is defined in a text file that needs to be loaded of the disk. The board file is hot-swappable during gameplay: changing the file changes the board in the game.
+The game has 3D graphics, music and sounds. Goal of the puzzle is to collect all coins with knight figure. Knight can only move in "L" shape (like knight piece in chess). Knight can not move on the wall but can jump over them. The board on which the game is played is a rectangle. The layout of the level is defined in a text file that needs to be loaded of the disk. The board file is hot-swappable during gameplay: changing the file changes the board in the game.
 
 # Text file example
   ##..##<br/>
